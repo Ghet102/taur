@@ -1,31 +1,29 @@
 VERSION="2.2.1"
 
 ACCOUNTS=[
-"",
+"GDUD35YVDNHH2A5GAP4WCLFNT5T2G2CLDKFVJ5O5OWGT3CMSSRLMTAUR",
 ]
 
 [DOCUMENTATION]
-ORG_NAME=""
-ORG_URL=""
+ORG_NAME="TaurusHQ"
+ORG_URL="https://www.taurushq.com"
 ORG_DESCRIPTION=""
-ORG_LOGO=""
-ORG_PHYSICAL_ADDRESS=""
-ORG_OFFICIAL_EMAIL=""
+ORG_LOGO="https://i.ibb.co/m872xkY/image.png"
 
 [[PRINCIPALS]]
-name=""
+name="Paolo Buzzi"
 
 
 [[CURRENCIES]]
-code=""
+code="TAURUS"
 status="live"
 display_decimals=2
-issuer=""
+issuer="GDUD35YVDNHH2A5GAP4WCLFNT5T2G2CLDKFVJ5O5OWGT3CMSSRLMTAUR"
 anchor_asset_type="crypto"
-name=""
-desc=""
-image=""
-fixed_number=
-max_number=
+name="TaurusHQ"
+desc="TAURUSHQ is a Swiss-based company providing enterprise-grade digital asset infrastructure for financial institutions. Their platform allows for the custody, issuance, and management of digital assets including cryptocurrencies, tokenized assets, and digital currencies. They serve major financial institutions across Europe and beyond, offering solutions for secure storage, tokenization, and real-time asset management​"
+image="https://i.ibb.co/m872xkY/image.png"
+fixed_number=10000000
+max_number=10000000
 is_unlimited=false
-# was issued using the open and inclusive Stellar blockchain network.
+#Taurus was issued using the open and inclusive Stellar blockchain network.
